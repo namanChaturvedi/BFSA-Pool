@@ -1,0 +1,10 @@
+#introduction .tm-intro-img {
+  width: 45%;
+  float: left;
+  margin: 10px 20px 0px 0px;
+}
+
+#introduction .btn-cta {
+  text-align: center;
+  margin: 50px 0px 0px 0px;
+}
