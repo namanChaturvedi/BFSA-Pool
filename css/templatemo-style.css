@@ -134,9 +134,9 @@ a:focus {
 /* Hero */
 
 #hero {  
-	background-image: url(../img/avocado_banner.jpg);
+    background-image: url(../img/BubbaGanu.jpg);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 160vh;
     min-height: 375px;
     position: relative;
     background-position: right;
@@ -185,6 +185,11 @@ a:focus {
   font-size: 3.5rem;
   text-shadow: 2px 2px 2px #333;
   color: chocolate;
+}
+
+.tm-hero-subtitle {
+  line-height: 1.9;
+  text-shadow: 2px 2px 2px #000;  
 }
 
 .tm-intro-next {
